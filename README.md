@@ -1,4 +1,4 @@
-# Awesome Writing Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Writing Mind Maps](https://mindmapai.app/mind-maps/writing) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Elevate your writing process with project management and mind maps AI to structure ideas, plan content, and track progress effectively. Mind maps AI empowers writers to visually organize thoughts, streamline workflows, and craft impactful stories across genres and formats.
 
